@@ -1,0 +1,11 @@
+EmpID,EmpName,Department,JobTitle,Salary,Gender,HireDate
+101,Alice,HR,Manager,75000,Female,2018-03-15
+102,Bob,IT,Software Engineer,85000,Male,2019-07-22
+103,Charlie,Finance,Analyst,65000,Male,2020-01-10
+104,Diana,IT,Data Scientist,95000,Female,2021-06-25
+105,Edward,Sales,Sales Executive,55000,Male,2017-09-05
+106,Fiona,Marketing,SEO Specialist,60000,Female,2020-10-14
+107,George,HR,Recruiter,58000,Male,2021-02-01
+108,Helen,Finance,Accountant,70000,Female,2018-11-11
+109,Ian,IT,System Administrator,78000,Male,2019-12-02
+110,Jane,Sales,Sales Manager,88000,Female,2016-05-20
